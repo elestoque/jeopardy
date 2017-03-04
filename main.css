@@ -79,7 +79,7 @@ body {
   width: 100vw;
   height: 100vh;
   background: #15006f;
-  z-index: 5; //change here 
+  z-index: 5; /*change here*/ 
   display: flex;
   justify-content: center;
   align-items: center;
